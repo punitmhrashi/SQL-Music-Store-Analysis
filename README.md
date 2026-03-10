@@ -38,4 +38,4 @@ Advanced queries using CTEs, window functions, and subqueries are implemented to
 ->  Window Functions
 
 
-**Result :-**The analysis provides insights into customer purchasing patterns, popular music genres, and revenue distribution across countries. These findings can help a music store business understand customer preferences and improve marketing and promotional strategies.
+**Result :-** The analysis provides insights into customer purchasing patterns, popular music genres, and revenue distribution across countries. These findings can help a music store business understand customer preferences and improve marketing and promotional strategies.
