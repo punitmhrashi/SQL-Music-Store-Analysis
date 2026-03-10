@@ -24,6 +24,7 @@ Advanced queries using CTEs, window functions, and subqueries are implemented to
 
 
 **Tools Used :-**
+
 ->  SQL
 
 ->  Music Store Database
